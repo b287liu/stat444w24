@@ -10,3 +10,5 @@ Reports for the three major projects can be found below:
 [Final Report](FinalProject/20843361Report.pdf)
 
 [Supplemental Materials for the Final Report](FinalProject/20843361SupplementalMaterials.pdf)
+
+All reports were written using RMarkdown. All code was written in R.
