@@ -6,3 +6,5 @@ Reports for the three major projects can be found below:
 [Smoothing Project](SmoothingProject/20843361.pdf)
 
 [Random Forest](RandomForest/20843361.pdf)
+
+[Final Report](FinalProject/20843361.pdf)
