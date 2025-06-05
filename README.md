@@ -7,4 +7,6 @@ Reports for the three major projects can be found below:
 
 [Random Forest](RandomForest/20843361.pdf)
 
-[Final Report](FinalProject/20843361.pdf)
+[Final Report](FinalProject/20843361Report.pdf)
+
+[Supplemental Materials for the Final Report](FinalProject/20843361SupplementalMaterials.pdf)
